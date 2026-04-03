@@ -8,7 +8,7 @@ A full-stack web application that displays products with features like search, c
 
 * **Frontend:** React.js, Tailwind CSS
 * **Backend:** Node.js, Express.js
-* **Data:** Mock API / Static JSON
+
 
 ---
 
@@ -70,4 +70,4 @@ This project demonstrates full-stack development skills including API creation, 
 
 ## 👨‍💻 Author
 
-Your Name
+Tanishq dhingra 
